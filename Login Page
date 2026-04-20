@@ -1,0 +1,53 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://aijthkumar-ak.github.io/WEB/
+Subject: Login Page
+Date: Sat, 18 Apr 2026 00:03:00 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ZnwiLNJOnNKCEgRwQannZQbGOk1KpOY3oVFb76MOad----"
+
+
+------MultipartBoundary--ZnwiLNJOnNKCEgRwQannZQbGOk1KpOY3oVFb76MOad----
+Content-Type: text/html
+Content-ID: <frame-2934873DA46044AC6ECF12F8A1556E4E@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://aijthkumar-ak.github.io/WEB/
+
+<!-- login.html --><!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-36355eac-f925-438a-a864-8e38f05b8fb4@mhtml.blink" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Login Page</title>
+
+</head>
+<body>
+<div class="login-container">
+  <h2>Login</h2>
+  <form id="loginForm">
+    <label for="username">Username:</label>
+    <input type="text" id="username" ajithkumar06042003@gmail.com="">
+    <label for="password">Password:</label>
+    <input type="password" id="password" ajithkumar06042003@gmail.com="">
+    <button type="submit">Login</button>
+  </form>
+</div>
+
+
+
+
+</body></html>
+------MultipartBoundary--ZnwiLNJOnNKCEgRwQannZQbGOk1KpOY3oVFb76MOad----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-36355eac-f925-438a-a864-8e38f05b8fb4@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; background-color: rgb(242, 242, 242); }
+
+.login-container { width: 300px; margin: 100px auto; padding: 20px; background: white; border-radius: 8px; }
+
+input[type="text"], input[type="password"] { width: 100%; padding: 10px; margin: 8px 0px; }
+
+button { width: 100%; padding: 10px; background-color: rgb(76, 175, 80); color: white; border: none; border-radius: 4px; }
+------MultipartBoundary--ZnwiLNJOnNKCEgRwQannZQbGOk1KpOY3oVFb76MOad------
